@@ -1,4 +1,4 @@
-# Accessory_Collection_HackerRank
+# Accessory_Collection_HackerRank - VS
 Program solves Accessory Collection problem from HackerRank
 
 Program solves Accessory Collection problem from HakerRank
